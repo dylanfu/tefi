@@ -1,3 +1,6 @@
 [submodule "tefi-be"]
 	path = tefi-be
 	url = git@github.com:dylanfu/tefi-be.git
+[submodule "tefi-fe"]
+	path = tefi-fe
+	url = git@github.com:knlbb/tefi-fe.git
